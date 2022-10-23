@@ -7,6 +7,16 @@ Sphinx
 coverage
 awscli
 flake8
+pandas
+polars
+kontocheck
+duckdb
+geopy
+sqlalchemy
+holidays
+requests
+bs4
+recordlinkage
 python-dotenv>=0.5.1
 {% if cookiecutter.python_interpreter != 'python3' %}
 
