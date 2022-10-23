@@ -90,17 +90,11 @@ class TestCookieSetup(object):
             'data/interim',
             'data/processed',
             'data/raw',
-            'docs',
-            'models',
-            'notebooks',
-            'references',
-            'reports',
-            'reports/figures',
-            'src',
-            'src/data',
-            'src/features',
-            'src/models',
-            'src/visualization',
+            'analysis',
+            'analysis/notebooks
+            'analysis/data_done',
+            'analysis/features',
+     
         ]
 
         ignored_dirs = [
