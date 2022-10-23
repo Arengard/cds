@@ -2,3 +2,13 @@ mkdocs
 mkdocs-cinder
 cookiecutter
 pytest
+pandas
+polars
+kontocheck
+duckdb
+geopy
+sqlalchemy
+holidays
+requests
+bs4
+recordlinkage
